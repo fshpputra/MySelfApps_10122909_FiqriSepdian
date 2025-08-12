@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        android:fontFamily = "@font/poppins"/>
+
+
+    <item
+        android:id="@+id/menu_daily"
+        android:icon="@drawable/ic_activity"
+        android:title="Activity"
+        android:fontFamily = "@font/poppins"/>
+
+    <item
+        android:id="@+id/menu_gallery"
+        android:icon="@drawable/ic_gallery"
+        android:title="Gallery"
+        android:fontFamily = "@font/poppins"/>
+
+    <item
+        android:id="@+id/menu_media"
+        android:icon="@drawable/ic_play"
+        android:title="Media"
+        android:fontFamily = "@font/poppins"/>
+
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"
+        android:fontFamily = "@font/poppins"
+        />
+
+</menu>
